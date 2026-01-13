@@ -1,0 +1,105 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.646,
+          42.8125
+        ]
+      },
+      "properties": {
+        "title": "",
+        "lng": -1.646,
+        "lat": 42.8125,
+        "tooltip": "Pamplona",
+        "data": "data",
+        "time": "2024-11-04T01:45:28.563Z",
+        "color": "#ff4141",
+        "scale": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7038,
+          40.4168
+        ]
+      },
+      "properties": {
+        "title": "",
+        "lng": -3.7038,
+        "lat": 40.4168,
+        "tooltip": "Madrid",
+        "data": "data",
+        "time": "2024-11-04T01:45:28.563Z",
+        "color": "#ff4141",
+        "scale": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2886,
+          36.5271
+        ]
+      },
+      "properties": {
+        "title": "",
+        "lng": -6.2886,
+        "lat": 36.5271,
+        "tooltip": "Cádiz",
+        "data": "data",
+        "time": "2024-11-04T01:45:28.563Z",
+        "color": "#ff4141",
+        "scale": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.978,
+          43.3183
+        ]
+      },
+      "properties": {
+        "title": "",
+        "lng": -1.978,
+        "lat": 43.3183,
+        "tooltip": "San Sebastián",
+        "data": "data",
+        "time": "2024-11-04T01:45:28.563Z",
+        "color": "#ff4141",
+        "scale": "small"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7286,
+          41.6523
+        ]
+      },
+      "properties": {
+        "title": "",
+        "lng": -4.7286,
+        "lat": 41.6523,
+        "tooltip": "Valladolid",
+        "data": "data",
+        "time": "2024-11-04T01:45:28.563Z",
+        "color": "#ff4141",
+        "scale": "small"
+      }
+    }
+  ]
+}
